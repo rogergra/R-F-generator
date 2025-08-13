@@ -67,7 +67,7 @@ Rtech-Facture-Elec/
 1. **Forker** le dépôt
 2. Cloner votre fork:
    ```bash
-   git clone https://github.com/votreusername/Rtech-Facture-Elec.git
+   git clone https://github.com/rogergra/R-F-generator.git
    ```
 3. Ouvrir `index.html` dans un navigateur moderne
 
@@ -78,23 +78,18 @@ Rtech-Facture-Elec/
 ## 🤝 Comment Contribuer ?
 
 Nous accueillons tous types de contributions :
-- 🐛 Rapporter des bugs via [Issues](https://github.com/votreusername/Rtech-Facture-Elec/issues)
+- 🐛 Rapporter des bugs via [Issues](https://github.com/rogergra/R-F-generator/issues)
 - 💡 Proposer des nouvelles fonctionnalités
 - 📚 Améliorer la documentation
 - 🎨 Refactoring et optimisation du code
 
 Consultez notre [Guide de Contribution](CONTRIBUTING.md) avant d'envoyer votre PR.
 
-## 📸 Captures d'Écran
 
-<div align="center">
-  <img src="screenshots/dashboard.png" width="45%" alt="Tableau de bord"/>
-  <img src="screenshots/invoice.png" width="45%" alt="Exemple de facture"/> 
-</div>
 
 ## 📄 License
 
-MIT © [Rogastech](https://github.com/Rogastech)
+MIT © [Rogastech](https://github.com/Rogergra)
 
 ---
 
