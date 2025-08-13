@@ -1,0 +1,9 @@
+graph TD
+    A[Issue ouverte] --> B{Type?}
+    B -->|Bug| C[Label 'bug']
+    B -->|Amélioration| D[Label 'enhancement']
+    C --> E[PR avec correction]
+    D --> F[PR avec feature]
+    E --> G[Review + Tests]
+    F --> G
+    G --> H[Merge]
